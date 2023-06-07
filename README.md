@@ -19,3 +19,6 @@
 
 ![Naufal Romero GitHub stats](https://github-readme-stats-xi-nine-74.vercel.app/api?username=romves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats-xi-nine-74.vercel.app/api/top-langs/?username=romves&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
