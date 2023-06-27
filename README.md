@@ -1,7 +1,7 @@
 <h1 align="">🌐 Socials</h1>
 <p align="left">
-<a href="https://linkedin.com/in/naufal-romero-putra-pratama-9ab816177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tigo s yoga" height="30" width="40" /></a>
-<a href="https://instagram.com/naufalromero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tigoyoga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naufal-romero-putra-pratama-9ab816177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufalromero" height="30" width="40" /></a>
+<a href="https://instagram.com/naufalromero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naufalromero" height="30" width="40" /></a>
 </p>
 
 
