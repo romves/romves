@@ -7,18 +7,22 @@
 
 <h2 align="">💻 Tech Stack</h2>
 <div align="">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
 
 <h2 align="">📊 GitHub Stats</h2>
 
-![Naufal Romero GitHub stats](https://github-readme-stats-xi-nine-74.vercel.app/api?username=romves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats-xi-nine-74.vercel.app/api/top-langs/?username=romves&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="">
+<img src="https://github-readme-stats-xi-nine-74.vercel.app/api?username=romves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Naufal Romero GitHub stats"/><br />
+<img src="https://github-readme-stats-xi-nine-74.vercel.app/api/top-langs/?username=romves&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Naufal Romero GitHub stats"/>
+</div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2017%20mins-blue)
