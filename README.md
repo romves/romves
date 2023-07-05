@@ -5,7 +5,7 @@
 </p>
 
 
-<h2 align="">💻 Tech Stack</h2>
+<h2 align="">Tech Stack</h2>
 <div align="">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -17,17 +17,19 @@
 </div>
 
 
-<h2 align="">📊 GitHub Stats</h2>
-
+<h2 align="">Statistics</h2>
 <div align="">
-<img src="https://github-readme-stats-xi-nine-74.vercel.app/api?username=romves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Naufal Romero GitHub stats"/><br />
+<img src="https://github-readme-stats-xi-nine-74.vercel.app/api?username=romves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Naufal Romero GitHub stats"/>
 <img src="https://github-readme-stats-xi-nine-74.vercel.app/api/top-langs/?username=romves&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Naufal Romero GitHub stats"/>
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2017%20mins-blue)
+ <h2>More Info</h2>
+<div>
+  <img src="http://img.shields.io/badge/Code%20Time-130%20hrs%2017%20mins-blue" src="Code Time"/>
+  <img src="http://img.shields.io/badge/Profile%20Views-9-blue" />
+</div>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **I'm a Night 🦉** 
 
