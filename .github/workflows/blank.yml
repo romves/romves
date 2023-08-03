@@ -17,6 +17,6 @@ jobs:
           SHOW_COMMIT: "TRUE"
           SHOW_DAYS_OF_WEEK: "TRUE"
           SHOW_LANGUAGE: "TRUE"
-          SHOW_PROJECTS: "TRUE"
+          SHOW_PROJECTS: "FALSE"
           SHOW_SHORT_INFO: "FALSE"
           SHOW_LOC_CHART: "FALSE"
