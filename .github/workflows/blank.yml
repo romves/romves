@@ -3,7 +3,7 @@ name: Status
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '10 5,11,17,23 * * *'
+    - cron: '0 5,11,17,23 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
