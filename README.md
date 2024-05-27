@@ -24,7 +24,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C152%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C153%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -49,7 +49,7 @@ Sunday                   155 commits         █░░░░░░░░░░�
 💬 Programming Languages: 
 TypeScript               14 hrs 15 mins      ████████████░░░░░░░░░░░░░   48.98 % 
 PHP                      5 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-JavaScript               5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+JavaScript               5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
 HTML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 Python                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
@@ -73,5 +73,5 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2024 12:26:46 UTC
+ Last Updated on 27/05/2024 01:06:20 UTC
 <!--END_SECTION:waka-->
