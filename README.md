@@ -24,6 +24,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C715%20hrs%2010%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
@@ -71,5 +73,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 03:48:00 UTC
+ Last Updated on 22/05/2026 14:52:20 UTC
 <!--END_SECTION:waka-->
