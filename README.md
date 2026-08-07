@@ -24,7 +24,45 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C725%20hrs%2052%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2010%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   3253 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Tuesday                  2959 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Wednesday                3048 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Thursday                 2632 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Friday                   2319 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Saturday                 3367 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Sunday                   2856 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -39,5 +77,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:46:47 UTC
+ Last Updated on 07/08/2026 13:10:12 UTC
 <!--END_SECTION:waka-->
