@@ -63,29 +63,6 @@ VS Code                  15 mins             ░░░░░░░░░░░�
 Mac                      16 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 16 hrs 43 mins (99.64%)
-
-✍️ 3,863 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 54 AI Sessions, 335 AI Prompts
-
-Gemini                   5,252 lines         █████████████████████████   99.04 % 
-Sonnet                   51 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 159 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -99,5 +76,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 13:29:29 UTC
+ Last Updated on 10/08/2026 13:48:18 UTC
 <!--END_SECTION:waka-->
