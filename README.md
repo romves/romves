@@ -24,9 +24,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C725%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C732%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,19 +49,41 @@ Sunday                   2856 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue                      11 hrs 3 mins       ████████████████░░░░░░░░░   65.94 % 
+TypeScript               3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+JavaScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          16 hrs 30 mins      █████████████████████████   98.42 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      16 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 16 hrs 43 mins (99.64%)
+
+✍️ 3,863 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 54 AI Sessions, 335 AI Prompts
+
+Gemini                   5,252 lines         █████████████████████████   99.04 % 
+Sonnet                   51 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 159 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,5 +99,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 12:56:38 UTC
+ Last Updated on 10/08/2026 01:53:49 UTC
 <!--END_SECTION:waka-->
