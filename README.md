@@ -49,18 +49,18 @@ Sunday                   3046 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue                      12 hrs 7 mins       █████████████████░░░░░░░░   66.77 % 
-TypeScript               2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-JavaScript               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Astro                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Vue                      11 hrs 3 mins       █████████████████░░░░░░░░   67.19 % 
+TypeScript               2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+JavaScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Astro                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🔥 Editors: 
-Antigravity IDE          17 hrs 52 mins      █████████████████████████   98.42 % 
-VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Antigravity IDE          16 hrs 10 mins      █████████████████████████   98.26 % 
+VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Mac                      18 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      16 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,5 +76,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 12:43:42 UTC
+ Last Updated on 16/08/2026 01:24:42 UTC
 <!--END_SECTION:waka-->
