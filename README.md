@@ -30,16 +30,16 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3254 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Tuesday                  3025 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Wednesday                3086 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Thursday                 2642 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Friday                   2379 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Saturday                 3397 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Sunday                   3046 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Monday                   5844 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Tuesday                  5161 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Wednesday                5584 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Thursday                 4482 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Friday                   4247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Saturday                 3467 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Sunday                   3086 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 ```
 
 
@@ -66,15 +66,15 @@ Mac                      11 hrs 12 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               56 repos            ████████████░░░░░░░░░░░░░   48.70 % 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Vue                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+TypeScript               58 repos            ████████████░░░░░░░░░░░░░   49.57 % 
+Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Vue                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 
 
 
 
- Last Updated on 18/08/2026 01:21:12 UTC
+ Last Updated on 18/08/2026 12:55:12 UTC
 <!--END_SECTION:waka-->
