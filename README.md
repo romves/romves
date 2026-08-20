@@ -24,9 +24,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C744%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C745%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -49,32 +49,31 @@ Sunday                   3086 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   44.10 % 
-Vue                      3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   38.11 % 
-Astro                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TypeScript               3 hrs 22 mins       ██████████████░░░░░░░░░░░   55.26 % 
+Vue                      2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.95 % 
+JavaScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs 22 mins       █████████████████████████   99.76 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Antigravity IDE          6 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               58 repos            ████████████░░░░░░░░░░░░░   49.57 % 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Vue                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+TypeScript               57 repos            ████████████░░░░░░░░░░░░░   49.14 % 
+Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Vue                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
 
 
- Last Updated on 19/08/2026 12:57:15 UTC
+ Last Updated on 20/08/2026 01:23:05 UTC
 <!--END_SECTION:waka-->
