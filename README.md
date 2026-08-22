@@ -24,9 +24,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C747%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C749%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-135%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -49,17 +49,18 @@ Sunday                   3086 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 18 mins       █████████████████████░░░░   84.40 % 
-Vue                      44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TypeScript               4 hrs 22 mins       ███████████████░░░░░░░░░░   59.73 % 
+Vue                      2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.42 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Git                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 6 mins        █████████████████████████   100.00 % 
+Antigravity IDE          7 hrs 13 mins       █████████████████████████   98.43 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 💻 Operating System: 
-Mac                      5 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,5 +76,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 12:57:50 UTC
+ Last Updated on 22/08/2026 01:21:17 UTC
 <!--END_SECTION:waka-->
