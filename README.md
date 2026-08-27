@@ -24,9 +24,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C757%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C759%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -36,9 +36,9 @@
 Monday                   5865 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 Tuesday                  5173 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
 Wednesday                5628 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Thursday                 4579 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Thursday                 4580 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 Friday                   4324 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Saturday                 3470 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Saturday                 3470 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 Sunday                   3105 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 ```
 
@@ -49,18 +49,18 @@ Sunday                   3105 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               6 hrs 25 mins       █████████████░░░░░░░░░░░░   51.14 % 
-Vue                      3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-Text                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+TypeScript               6 hrs 42 mins       ██████████████░░░░░░░░░░░   54.63 % 
+Vue                      2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Text                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🔥 Editors: 
-Antigravity IDE          12 hrs 26 mins      █████████████████████████   99.08 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Antigravity IDE          12 hrs 9 mins       █████████████████████████   99.06 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Mac                      12 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,5 +76,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 08:00:26 UTC
+ Last Updated on 27/08/2026 22:05:06 UTC
 <!--END_SECTION:waka-->
