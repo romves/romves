@@ -24,9 +24,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C759%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C761%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,18 +49,18 @@ Sunday                   3186 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               6 hrs 42 mins       ██████████████░░░░░░░░░░░   54.63 % 
-Vue                      2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Text                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+TypeScript               7 hrs 52 mins       ████████████████░░░░░░░░░   65.32 % 
+Vue                      1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Text                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
-Antigravity IDE          12 hrs 9 mins       █████████████████████████   99.06 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Antigravity IDE          11 hrs 44 mins      ████████████████████████░   97.43 % 
+VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 💻 Operating System: 
-Mac                      12 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,5 +76,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 10:05:16 UTC
+ Last Updated on 28/08/2026 21:59:26 UTC
 <!--END_SECTION:waka-->
