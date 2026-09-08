@@ -24,9 +24,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C800%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C803%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-178%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,20 +49,20 @@ Sunday                   3224 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               15 hrs 9 mins       ██████████████░░░░░░░░░░░   56.61 % 
-Vue                      4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Astro                    3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+TypeScript               13 hrs 47 mins      ███████████████░░░░░░░░░░   60.49 % 
+Vue                      3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Astro                    2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
-Antigravity IDE          15 hrs 43 mins      ███████████████░░░░░░░░░░   58.70 % 
-VS Code                  5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Opencode Cli             5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Antigravity IDE          17 hrs 18 mins      ███████████████████░░░░░░   75.89 % 
+VS Code                  3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Opencode Cli             2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 
 💻 Operating System: 
-Mac                      16 hrs 31 mins      ███████████████░░░░░░░░░░   61.69 % 
-WSL                      10 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   38.31 % 
+Mac                      17 hrs 43 mins      ███████████████████░░░░░░   77.67 % 
+WSL                      5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -78,5 +78,5 @@ Vue                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 17:32:37 UTC
+ Last Updated on 08/09/2026 03:34:24 UTC
 <!--END_SECTION:waka-->
