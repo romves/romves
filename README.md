@@ -49,20 +49,20 @@ Sunday                   3238 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               8 hrs 32 mins       █████████████████░░░░░░░░   66.51 % 
-Vue                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+TypeScript               9 hrs 21 mins       ████████████████░░░░░░░░░   63.41 % 
+Vue                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 40 mins      █████████████████████░░░░   83.10 % 
-VS Code                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Opencode Cli             1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Antigravity IDE          9 hrs 40 mins       ████████████████░░░░░░░░░   65.59 % 
+VS Code                  2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Opencode Cli             2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 
 💻 Operating System: 
-Mac                      10 hrs 45 mins      █████████████████████░░░░   83.78 % 
-WSL                      2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Mac                      9 hrs 45 mins       █████████████████░░░░░░░░   66.18 % 
+WSL                      4 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -78,5 +78,5 @@ Vue                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 15:18:21 UTC
+ Last Updated on 13/09/2026 03:39:59 UTC
 <!--END_SECTION:waka-->
