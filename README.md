@@ -33,13 +33,13 @@
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   8787 commits        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Tuesday                  7413 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Wednesday                9253 commits        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Thursday                 7081 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Friday                   6669 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Saturday                 3527 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Sunday                   3242 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Monday                   8801 commits        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Tuesday                  7427 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Wednesday                9264 commits        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Thursday                 7083 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Friday                   6675 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Saturday                 3530 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Sunday                   3245 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 ```
 
 
@@ -49,34 +49,34 @@ Sunday                   3242 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               9 hrs 6 mins        ████████████████░░░░░░░░░   63.75 % 
-Vue                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+TypeScript               8 hrs 13 mins       ████████████████░░░░░░░░░   62.23 % 
+Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Vue                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 27 mins       █████████████████░░░░░░░░   66.19 % 
-Opencode Cli             2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-VS Code                  2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Antigravity IDE          7 hrs 37 mins       ██████████████░░░░░░░░░░░   57.76 % 
+VS Code                  2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+Opencode Cli             2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
 
 💻 Operating System: 
-Mac                      9 hrs 27 mins       █████████████████░░░░░░░░   66.20 % 
-WSL                      4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
+Mac                      7 hrs 37 mins       ██████████████░░░░░░░░░░░   57.78 % 
+WSL                      5 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.22 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               60 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               61 repos            █████████████░░░░░░░░░░░░   50.83 % 
 Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Astro                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 Vue                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
 
 
- Last Updated on 14/09/2026 18:05:19 UTC
+ Last Updated on 15/09/2026 03:53:14 UTC
 <!--END_SECTION:waka-->
