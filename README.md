@@ -49,19 +49,19 @@ Sunday                   3323 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 59 mins       ████████████████░░░░░░░░░   64.46 % 
-Go                       1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Astro                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Vue                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+TypeScript               3 hrs 26 mins       ██████████████████░░░░░░░   70.81 % 
+Go                       1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+Vue                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-Opencode Cli             3 hrs 12 mins       █████████████░░░░░░░░░░░░   51.79 % 
-Antigravity IDE          2 hrs 57 mins       ████████████░░░░░░░░░░░░░   47.71 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Antigravity IDE          2 hrs 35 mins       █████████████░░░░░░░░░░░░   53.10 % 
+Opencode Cli             2 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.26 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Mac                      6 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,5 +77,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 16:02:29 UTC
+ Last Updated on 04/10/2026 04:51:41 UTC
 <!--END_SECTION:waka-->
