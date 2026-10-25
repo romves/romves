@@ -49,20 +49,20 @@ Sunday                   3615 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               13 hrs 23 mins      ████████████████░░░░░░░░░   62.76 % 
-JavaScript               3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Kotlin                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Python                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+TypeScript               13 hrs 23 mins      █████████████████░░░░░░░░   68.17 % 
+JavaScript               2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Python                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Astro                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
-Opencode Cli             9 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.51 % 
-Antigravity IDE          7 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.56 % 
-OpenCode                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-VS Code                  1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Opencode Cli             7 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.00 % 
+Antigravity IDE          7 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.71 % 
+OpenCode                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+VS Code                  1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 💻 Operating System: 
-Mac                      21 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -78,5 +78,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 15:44:30 UTC
+ Last Updated on 25/10/2026 03:42:23 UTC
 <!--END_SECTION:waka-->
