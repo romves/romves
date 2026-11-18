@@ -14,13 +14,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   21768 commits       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Tuesday                  18402 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Wednesday                20891 commits       █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Thursday                 16994 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Friday                   16439 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Saturday                 3818 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Sunday                   4067 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Monday                   22004 commits       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Tuesday                  18391 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Wednesday                21049 commits       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Thursday                 17151 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Friday                   16623 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Saturday                 3812 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Sunday                   4064 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 ```
 
 
@@ -50,15 +50,15 @@ Mac                      4 hrs 48 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               61 repos            █████████████░░░░░░░░░░░░   50.41 % 
-JavaScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Vue                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+TypeScript               60 repos            █████████████░░░░░░░░░░░░   51.72 % 
+JavaScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Vue                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
 
 
- Last Updated on 17/11/2026 20:55:31 UTC
+ Last Updated on 18/11/2026 06:26:00 UTC
 <!--END_SECTION:waka-->
