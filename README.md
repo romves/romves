@@ -14,13 +14,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   24113 commits       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Tuesday                  20282 commits       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Wednesday                23164 commits       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Thursday                 18869 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Friday                   18161 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Saturday                 3858 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Sunday                   4163 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Monday                   24438 commits       █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Tuesday                  20563 commits       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Wednesday                23419 commits       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+Thursday                 19107 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   18414 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Saturday                 3864 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Sunday                   4171 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 
 
@@ -30,21 +30,21 @@ Sunday                   4163 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 14 mins        ████████████░░░░░░░░░░░░░   46.55 % 
-C                        53 mins             ████████░░░░░░░░░░░░░░░░░   33.39 % 
-HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Objective-C              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+TypeScript               2 hrs 7 mins        ██████████████░░░░░░░░░░░   55.23 % 
+C                        1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Objective-C              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        █████████████░░░░░░░░░░░░   51.44 % 
-Antigravity IDE          53 mins             ████████░░░░░░░░░░░░░░░░░   33.28 % 
-Antigravity Desktop      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-OpenCode                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Antigravity CLI          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Antigravity IDE          1 hr 39 mins        ███████████░░░░░░░░░░░░░░   42.92 % 
+VS Code                  1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   35.21 % 
+Opencode Cli             22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Antigravity Desktop      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+OpenCode                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 💻 Operating System: 
-Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -60,5 +60,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 20:20:04 UTC
+ Last Updated on 20/11/2026 06:14:27 UTC
 <!--END_SECTION:waka-->
