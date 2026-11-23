@@ -7,20 +7,20 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C942%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-298%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   25315 commits       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Tuesday                  21309 commits       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Wednesday                24111 commits       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Thursday                 19754 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Friday                   19061 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Saturday                 3880 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Sunday                   4202 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Monday                   25571 commits       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Tuesday                  21547 commits       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Wednesday                24346 commits       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Thursday                 19957 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Friday                   19239 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Saturday                 3886 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Sunday                   4210 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 
 
@@ -30,18 +30,18 @@ Sunday                   4202 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 16 mins       █████████████░░░░░░░░░░░░   51.82 % 
-Other                    1 hr 55 mins        ███████████░░░░░░░░░░░░░░   43.79 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other                    3 hrs 6 mins        ███████████████░░░░░░░░░░   60.69 % 
+TypeScript               1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   35.55 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       ██████████████░░░░░░░░░░░   54.17 % 
-Antigravity CLI          2 hrs               ███████████░░░░░░░░░░░░░░   45.83 % 
+VS Code                  2 hrs 40 mins       █████████████░░░░░░░░░░░░   52.19 % 
+Antigravity CLI          2 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.81 % 
 
 💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   99.99 % 
+Mac                      5 hrs 6 mins        █████████████████████████   99.99 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
@@ -58,5 +58,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2026 06:17:50 UTC
+ Last Updated on 23/11/2026 23:50:11 UTC
 <!--END_SECTION:waka-->
